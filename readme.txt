@@ -3,7 +3,7 @@ Contributors: macmonir
 Donate link: Tags: capslock, caps lock, caps, lock
 Requires at least: 2.0.2
 Tested up to: 3.3.1
-Stable tag: 4.3
+
 
 
 == Description ==
@@ -20,7 +20,7 @@ Capslock plugin will check the caps lock key on or not in the login panel. it wi
 == Frequently Asked Questions ==
 
 == Screenshots ==
- screenshot-1. It gives an alert message when capslock key is on.
+ 1. It gives an alert message when capslock key is on.
 
 == Changelog ==
 == Upgrade Notice ==
