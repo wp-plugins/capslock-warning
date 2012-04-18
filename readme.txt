@@ -5,7 +5,6 @@ Requires at least: 2.0.2
 Tested up to: 3.3.1
 Stable tag: 4.3
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
 
 == Description ==
 
@@ -21,15 +20,8 @@ Capslock plugin will check the caps lock key on or not in the login panel. it wi
 == Frequently Asked Questions ==
 
 == Screenshots ==
-
+1. It gives an alert message when capslock key is on.
 
 == Changelog ==
 == Upgrade Notice ==
-== Arbitrary section ==
 
-
-== A brief Markdown Example ==
-
-Ordered list:
-
-1. give a alert message at the time of login if capslock key is on
