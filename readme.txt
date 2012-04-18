@@ -14,7 +14,7 @@ Capslock plugin will check the caps lock key on or not in the login panel. it wi
 
 == Installation ==
 
-1. Upload `capslock.php` to the `/wp-content/plugins/` directory
+1. Upload `capslock.php` to the `/wp-content/plugins/capslock-warning` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
