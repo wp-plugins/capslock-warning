@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: macmonir
-Donate link: Tags: comments, spam
+Donate link: Tags: capslock, caps lock, caps, lock
 Requires at least: 2.0.2
 Tested up to: 3.3.1
 Stable tag: 4.3
