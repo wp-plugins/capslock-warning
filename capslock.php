@@ -1,6 +1,6 @@
 <?php 
 /*
-Plugin Name: check caps lock
+Plugin Name: Check caps lock key
 Plugin URI: 
 Description: Check the caps lock key on or not
 Author: Monir
