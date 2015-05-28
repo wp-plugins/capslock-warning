@@ -2,7 +2,7 @@
 Contributors: macmonir
 Donate link: Tags: capslock, caps lock, caps, lock
 Requires at least: 2.0.2
-Tested up to: 3.3.1
+Tested up to: 4.2.2
 
 
 
